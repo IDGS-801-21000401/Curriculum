@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/angelroberto/Library/CloudStorage/OneDrive-Personal/9vo Cuatrimestre/DWI/Parcial 1/Proyectos/Curriculum/Curriculum/Curriculum.csproj": {}
+  },
+  "projects": {
+    "/Users/angelroberto/Library/CloudStorage/OneDrive-Personal/9vo Cuatrimestre/DWI/Parcial 1/Proyectos/Curriculum/Curriculum/Curriculum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelroberto/Library/CloudStorage/OneDrive-Personal/9vo Cuatrimestre/DWI/Parcial 1/Proyectos/Curriculum/Curriculum/Curriculum.csproj",
+        "projectName": "Curriculum",
+        "projectPath": "/Users/angelroberto/Library/CloudStorage/OneDrive-Personal/9vo Cuatrimestre/DWI/Parcial 1/Proyectos/Curriculum/Curriculum/Curriculum.csproj",
+        "packagesPath": "/Users/angelroberto/.nuget/packages/",
+        "outputPath": "/Users/angelroberto/Library/CloudStorage/OneDrive-Personal/9vo Cuatrimestre/DWI/Parcial 1/Proyectos/Curriculum/Curriculum/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelroberto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.316/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
